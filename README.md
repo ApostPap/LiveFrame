@@ -58,8 +58,7 @@
     </li>
 </ul>
 <p>
-    <strong>Lo</strong>
-    <strong>g</strong>
+    <strong>Log</strong>
     <strong> Data</strong>
 </p>
 <p>
