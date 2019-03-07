@@ -161,8 +161,8 @@
 <p>
     If you have any questions or suggestions about my Privacy Policy, do not
     hesitate to contact me at
-    <a href="mailto:apostolos.i.papadopoulos@gmail.com">
-        apostolos.i.papadopoulos@gmail.com
+    <a href="mailto:apo.i.papadopoulos@gmail.com">
+        apo.i.papadopoulos@gmail.com
     </a>
     .
 </p>
